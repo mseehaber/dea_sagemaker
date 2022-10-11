@@ -1,0 +1,30 @@
+name: DEA-ENV
+channels:
+- conda-forge
+- defaults
+dependencies:
+- python>=3.9
+- numpy<=1.21
+- matplotlib
+- jupyter
+- netcdf4
+- xarray
+- scipy
+- boto
+- boto3
+- arm_pyart
+- cartopy
+- pooch
+- gdal
+- datacube
+- rioxarray
+- intake
+- intake-xarray
+- rasterio
+- datashader
+- s3fs
+- hvplot
+- geopandas 
+- geoviews
+- requests
+- dask
