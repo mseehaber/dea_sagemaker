@@ -1,6 +1,3 @@
-# deafrica_sagemaker
-Repo to store ongoing examples of using Digital Earth Africa data in AWS Sagemaker Studio Lab.
-
 ## Setting up a Custom Environment 
 
 Similar to DE Africa's Sandbox, Amazon SageMaker Studio Lab uses a JupyterLab interface and includes the shared functionalities found in DE Africa's Sandbox. Including Functionalities such as GitHub intergration, preconfigured ML tools, frameworks and libraries. Amazon SageMaker Studio Lab is a free machine learning (ML) development environment that provides the compute, storage (up to 15GB), and security for users to learn and experiment with ML. 
