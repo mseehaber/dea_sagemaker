@@ -1,0 +1,36 @@
+name: dea-env
+channels:
+- conda-forge
+- defaults
+dependencies:
+# Python
+- python>=3.9
+- pip
+# Jupyter Notebooks
+- ipykernel
+- ipython
+# Data science
+- numpy
+- scipy
+# Spatial 
+- rasterio
+- geopandas
+# Project-specific Packages
+- boto3
+- pystac-client
+- sat-search
+- odc-stac
+- pip:
+  - deafrica-tools
+
+
+
+
+
+
+
+
+
+
+
+
